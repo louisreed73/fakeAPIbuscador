@@ -89,9 +89,7 @@
             "tipo_procedimiento":0,
             "magistrado":"magistrado 2",
             "tipo":"escrito"
-        }
-    ],
-    "escritos":[
+        },
         {
             "id":10,
             "descripcion":"descripcion 10",
@@ -181,10 +179,8 @@
             "tipo_procedimiento":0,
             "magistrado":"magistrado 2",
             "tipo":"resolucion"
-        }
-    ],
-    "resoluciones":[         
-        {
+        },
+{
             "id":23,
             "descripcion":"digital",
             "tipo_documental":2,
@@ -248,5 +244,4 @@
             "tipo":"resolucion"
         }
     ]
-
 }
